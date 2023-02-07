@@ -1,0 +1,18 @@
+/* Thanks for checking out this PEN.
+If you have any question, please feel free to contact me via email(immad.hamid@gmail.com) 
+For more pen visit codepen.io/immad-hamid  */
+
+.client-1 {
+    height: 500px;
+    background-image: url(./productimage/brac.webp);
+    transition: all linear .5s;
+    background-size: cover;
+  }
+  
+  .client-1:hover {
+    background-image: url(./productimage/brac2.jpg);
+    content: '';
+  }
+
+
+  
